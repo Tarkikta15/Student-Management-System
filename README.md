@@ -56,25 +56,25 @@ E. **INSTRUCTIONS FOR TESTING**
 
 G.**SCREENSHOTS**
  ##addstudent
- ![Add student](screenshot/add%20student.png)
+ ![Add student](screenshots/add_student.png)
 
  ##viewallstudents
- ![View student](screenshot/view%20all%20students.png)
+ ![View student](screenshots/viewall_student.png)
 
  ##searchstudent
- ![Search student](screenshot/search%20student.png)
+ ![Search student](screenshots/search_student.png)
 
  ##updatestudent
- ![Update student](screenshot/update%20student.png)
+ ![Update student](screenshots/update_student.png)
 
  ##markattendance
- ![Mark attendance](screenshot/mark%20attendance.png)
+ ![Mark attendance](screenshots/mark_attendance.png)
 
  ##viewattendance
- ![View attendance](screenshot/view%20attendance.png)
+ ![View attendance](screenshots/view_attendance.png)
 
  ##marks
- ![Marks](screenshot/marks.png)
+ ![Marks](screenshots/marks.png)
 
  ##reportcard
- ![Report card](screenshot/report%20card.png)
+ ![Report card](screenshots/report_card.png)
